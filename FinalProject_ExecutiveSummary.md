@@ -14259,7 +14259,7 @@ plt.show()
 
 
     
-![png](output_24_0.png)
+![png](download%20(9).png)
     
 
 
@@ -14283,7 +14283,7 @@ plt.show()
 
 
     
-![png](output_25_0.png)
+![png](download%20(10).png)
     
 
 
@@ -14325,13 +14325,13 @@ plt.show()
 
 
     
-![png](output_27_0.png)
+![png](download%20(11).png)
     
 
 
 
     
-![png](output_27_1.png)
+![png](download%20(12).png)
     
 
 
@@ -14373,7 +14373,7 @@ plt.show()
 
 
     
-![png](output_28_0.png)
+![png](download%20(13).png)
     
 
 
@@ -14417,7 +14417,7 @@ plt.show()
 
 
     
-![png](output_29_0.png)
+![png](download%20(14).png)
     
 
 
