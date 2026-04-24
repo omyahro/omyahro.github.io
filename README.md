@@ -14,6 +14,11 @@ This website is a curated collection of:
 - Research Work – social justice in STEM, HBCU engagement, and AI ethics
 - Contact Information – ways to connect and collaborate
 
+## Data Storytelling 
+
+View my full interactive Graduate Capstone data story here:  
+[visuals.md](visuals.md)
+
 ## Technologies Used
 
 - HTML & CSS (GitHub Pages)
