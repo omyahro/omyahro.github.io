@@ -15,7 +15,7 @@ Cancer mortality disparities remain a persistent public health issue, with Black
 ## Tableau Dashboard (Main Analysis)
 
 <iframe 
-  src="https://public.tableau.com/views/CapstoneDashboard_OmyahRoyals/Dashboard1?:embed=y&:display_count=yes"
+  src="https://public.tableau.com/views/CapstoneDashboard_OmyahRoyals/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link"
   width="100%" 
   height="800">
 </iframe>
