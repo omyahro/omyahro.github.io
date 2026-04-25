@@ -19,6 +19,11 @@ Cancer mortality disparities remain a serious public health issue, especially fo
 
 ---
 
-## Flourish Story (Interactive Narrative & Mapping)
+## Flourish Story
 
-<div class="flourish-embed flourish-story" data-src="story/<div class="flourish-embed flourish-chart" data-src="story/3637781"><script 
+<div class="flourish-embed flourish-story" data-src="story/3637781">
+  <script src="https://public.flourish.studio/resources/embed.js"></script>
+  <noscript>
+    <img src="https://public.flourish.studio/story/3637781/thumbnail" width="100%" alt="visualization" />
+  </noscript>
+</div>
